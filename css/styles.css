@@ -93,8 +93,8 @@ img {
 .port-list {
   display: flex;
   flex-wrap: wrap;
-  row-gap: 24px;
-  column-gap: 48px;
+  row-gap: 48px;
+  column-gap: 24px;
 }
 .port-item {
   padding-bottom: 32px;
